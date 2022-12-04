@@ -1,5 +1,7 @@
 ### Hi there ☕️
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/k-yanai60/posts.svg)](http://qiita.com/k-yanai60)
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yt2b&theme=dark)
 
 <!--
