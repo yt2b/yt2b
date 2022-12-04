@@ -2,7 +2,10 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/k-yanai60/posts.svg)](http://qiita.com/k-yanai60)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yt2b&theme=dark)
+
+[![](https://raw.githubusercontent.com/yt2b/yt2b/main/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yt2b/yt2b/main/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <!--
 **yt2b/yt2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
