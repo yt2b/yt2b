@@ -2,6 +2,7 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/k-yaina60/posts.svg)](http://qiita.com/k-yaina60)
 
+🌱 I’m currently learning Rust.
 
 [![](https://raw.githubusercontent.com/yt2b/yt2b/main/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yt2b/yt2b/main/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
