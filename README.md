@@ -8,6 +8,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=rust,python,ts,go,linux)](https://skillicons.dev)
 
+---
+
 [![](https://raw.githubusercontent.com/yt2b/yt2b/main/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yt2b/yt2b/main/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
